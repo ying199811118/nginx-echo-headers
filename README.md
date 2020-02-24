@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nginx-echo-headers
 
 A simple tool for debugging HTTP requests. nginx will return all request headers and body to the client.
@@ -43,3 +44,6 @@ Accept-Encoding: gzip, deflate
 Accept: */*
 Connection: keep-alive
 ```
+=======
+# nginx-echo-headers
+>>>>>>> 71b29d73089d9b28a8784c032f3c91dfa1dd160f
